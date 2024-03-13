@@ -1,4 +1,9 @@
 PyPDF2
 langchain
 transformers
+langchain.text_splitter 
+langchain.embeddings.huggingface 
+langchain.vectorstores 
+langchain.chains.question_answering
+langchain import HuggingFaceHub
 
